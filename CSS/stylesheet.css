@@ -1,0 +1,32 @@
+h1 {
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: chocolate;
+}
+h3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#bodyone {
+    background-color: #98BA74;
+}
+#headerone {
+    background-color: #FBD686;
+}
+#asideone {
+    background-color: #D6EFC7;
+}
+#articleone {
+    background-color: ;
+}
+#footerone {
+    background-color: #6b8754;
+}
+.aside {
+    color: azure;
+}
+.article {
+    color: rgb(31, 43, 54);
+}
